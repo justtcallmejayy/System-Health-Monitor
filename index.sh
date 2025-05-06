@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # Function to send email
 send_alert() {
